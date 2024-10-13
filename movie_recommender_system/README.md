@@ -10,3 +10,4 @@ archetecture: content based filtering
 * streamlit
   
 note: the image providing feature may not work as the TMDB website has been banned in INDIA and the program uses its APIs to retieve them from TMDB.
+pkl files have been put in .gitignore due to github's file size restrictions 
